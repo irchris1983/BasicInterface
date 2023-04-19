@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: BasicInterface
+  annotations:
+    github.com/project-slug: irchris1983/BasicInterface
+spec:
+  type: other
+  lifecycle: unknown
+  owner: irchris1983
